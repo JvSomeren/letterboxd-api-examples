@@ -9,7 +9,9 @@ This repository contains examples of how to implement [Letterbox's API](http://a
 
 #### Auth
 
-_TODO_
+* [POST /auth/forgotten-password-request](python/auth_forgotten-password-request.py)
+* [POST /auth/token](python/auth_token.py)
+* [GET /auth/username-check](python/auth_username-check.py)
 
 #### Comment
 
