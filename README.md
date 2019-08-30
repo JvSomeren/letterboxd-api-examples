@@ -47,7 +47,7 @@ _TODO_
 
 #### News
 
-_TODO_
+* [GET /news](python/news.py)
 
 #### Search
 
