@@ -46,7 +46,7 @@ def news():
         'timestamp': int(time.time())
     }
     # available GET parameters are:
-    # (see here for the allowed values http://api-docs.letterboxd.com/#/definitions/SearchRequest)
+    # (see here for the allowed values http://api-docs.letterboxd.com/#/definitions/NewsRequest)
     # params['cursor'] = cursor
     # params['perPage'] = 20
 
