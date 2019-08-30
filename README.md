@@ -40,7 +40,8 @@ _TODO_
 
 #### Me
 
-_TODO_
+* [GET /me](python/me.py)
+* [PATCH /me](python/me.py)
 
 #### Member
 
