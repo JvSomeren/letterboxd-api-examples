@@ -22,7 +22,7 @@ from getpass import getpass
 base_url = 'https://api.letterboxd.com/api/v0'
 
 
-def search():
+def news():
     session = requests.Session()
     session.params = {}
 
@@ -87,4 +87,4 @@ def search():
 
 
 if __name__ == "__main__":
-    search()
+    news()
