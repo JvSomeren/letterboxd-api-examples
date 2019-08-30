@@ -19,7 +19,8 @@ _TODO_
 
 #### Contributor
 
-_TODO_
+* [GET /contributor/{id}](python/contributor_id.py)
+* [GET /contributor/{id}/contributions](python/contributor_id_contributions.py)
 
 #### Film-Collection
 
