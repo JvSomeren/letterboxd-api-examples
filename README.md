@@ -42,6 +42,7 @@ _TODO_
 
 * [GET /me](python/me.py)
 * [PATCH /me](python/me.py)
+* [POST /me/validation-request](python/me_validation-request.py)
 
 #### Member
 
